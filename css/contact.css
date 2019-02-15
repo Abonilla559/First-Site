@@ -1,0 +1,11 @@
+.contact-container {
+    width: 100%;
+    height: 700px;
+}
+
+.contact-col {
+    width: 48%;
+    border: 6px solid black;
+    float: left;
+    margin-top: 70px;
+}
